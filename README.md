@@ -1,1 +1,1 @@
-# -Qt-ptread-life-game
+# Qt-ptread-life-game
